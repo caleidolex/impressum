@@ -67,6 +67,10 @@ body {
   overflow-wrap: anywhere;
 }
 
+.card p.bold {
+  font-weight: 600;
+}
+
 .card a {
   color: inherit;
   text-decoration: none;
